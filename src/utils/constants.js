@@ -18,7 +18,7 @@ export const categories = [
   { name: "Tushig", icon: <SchoolIcon /> },
   { name: "Davaidasha", icon: <MusicNoteIcon /> },
   { name: "Morningstar", icon: <MusicNoteIcon /> },
-  { name: "Nest Academy", icon: <SchoolIcon /> },
+  { name: "Pinecone Academy", icon: <SchoolIcon /> },
   { name: "Ideree Podcast", icon: <GraphicEqIcon /> },
   { name: "Red Burger", icon: <OndemandVideoIcon /> },
   { name: "CTS", icon: <SportsEsportsIcon /> },
